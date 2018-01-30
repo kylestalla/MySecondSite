@@ -1,0 +1,18 @@
+// https://raw.githubusercontent.com/twbs/bootstrap/v4-dev/scss/_variables.scss
+
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+@font-face {
+  font-family: "BrownPro";
+  src: url("../fonts/BrownPro-Regular.otf") format("otf");
+  font-weight: 300;
+}
+@font-face {
+  font-family: "BrownPro";
+  src: url("../fonts/BrownPro-Bold.otf") format("otf");
+  font-weight: 700;
+}
+
+$body-bg: #000;
+$h1-font-size: 100pt;
+$headings-color:#ff5225;
+$headings-font-family: 'BrownPro', sans-serif;
